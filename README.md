@@ -2,4 +2,5 @@
 A script that iterates though a player list and assigns them to teams based on a criteria that will make team selection as 
 fair as possible. 
 
-The program will then generate personalised letters to all players.
+The program will then generate personalised letters to all players informing them of their team and the date and time of their first
+team practice.
